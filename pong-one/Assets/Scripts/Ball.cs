@@ -4,15 +4,23 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] private float strtSpd = 10;
+    [SerializeField] private float spdIncrease = 0.25f;
+    private int hitCounter;
+    private Rigidbody2D rb;
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
+        Invoke("StartBall", 2f);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        rb.velocity = Vector2.ClampMagnitude(rb.velocity, strtSpd + spdIncrease);
+    }
+
+    private void StartBall()
+    {
+        rb.velocity = new Vector2(-1, 0) * (strtSpd + spdIncrease);
     }
 }
