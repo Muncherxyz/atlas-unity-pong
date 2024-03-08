@@ -11,7 +11,7 @@ public class Ball : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.velocity = new Vector2(1000f, 1000f);   
+        rb.velocity = new Vector2(-1000f, -1000f);   
     }
 
     // Update is called once per frame
