@@ -1,5 +1,6 @@
 Atlas Unity Pong
-s we have picked up throughout the foundations of unity. For this project I created custom assets for the paddle and ball.
+-
+A recreation of the classic 2D game Pong. Its been refreshed with custom assets that I created and some unique systems to make it feel more interactive!. The game also has very fun effects that show up every now and then to keep you engaged.
 
 Setup:
 -
@@ -51,5 +52,4 @@ The purpose of the project was to put together everything we learned about unity
 About Me:
 -
 
- My name is Kortlan Blocker and im currently learning how to develop XR experiences at Atlas School. I specialize in AR/VR(Augmented Reality/Virtual Reality) development. Ive dedicated a lot of my time to practicing the fundamentals of unity by learning C#, and playing around with its many features as an editor. -
-
+ My name is Kortlan Blocker and im currently learning how to develop XR experiences at Atlas School. I specialize in AR/VR(Augmented Reality/Virtual Reality) development. Ive dedicated a lot of my time to practicing the fundamentals of unity by learning C#, and playing around with its many features as an editor. 
