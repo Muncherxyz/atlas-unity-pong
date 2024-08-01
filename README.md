@@ -1,7 +1,5 @@
 Atlas Unity Pong
--
-
-Atlas Unity Pong: This is a project where we recreated the classic pong game utilizing skills we have picked up throughout the foundations of unity. For this project I created custom assets for the paddle and ball.
+s we have picked up throughout the foundations of unity. For this project I created custom assets for the paddle and ball.
 
 Setup:
 -
@@ -30,4 +28,28 @@ Planned Updates:
 ---
 
 
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+Challenges:
+-
+This project came with many challenges at the beginning. Creating the AI for the single player game mode proved to be a tiny obstacle. The most time consuming portion was setting up functionality for the ball. Some brief obstacles along the way that were also faced dealt with getting the UI to update based on when someone scores. 
+
+
+ Purpose:
+-
+The purpose of the project was to put together everything we learned about unity within the first trimester. This project utilized our knowledge on the foundations of Unity. We played around a lot with animations, audio, and UI. This also allowed us to get practice with creating a very simplistic AI in order to create a single player experience. 
+
+
+
+About Me:
+-
+
+ My name is Kortlan Blocker and im currently learning how to develop XR experiences at Atlas School. I specialize in AR/VR(Augmented Reality/Virtual Reality) development. Ive dedicated a lot of my time to practicing the fundamentals of unity by learning C#, and playing around with its many features as an editor. -
 
