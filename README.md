@@ -1,5 +1,7 @@
 Atlas Unity Pong
 -
+![th](https://github.com/user-attachments/assets/bf82b659-3000-4bf3-9386-8edaf9574f6b)
+
 A recreation of the classic 2D game Pong. Its been refreshed with custom assets that I created and some unique systems to make it feel more interactive!. The game also has very fun effects that show up every now and then to keep you engaged.
 
 Setup:
